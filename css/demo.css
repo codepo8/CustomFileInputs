@@ -219,3 +219,9 @@ a:focus {
 		font-size: 2.8em;
 	}
 }
+
+.update, .update + p {
+	background: #cec;
+	margin:0;
+	padding: .5em 0;
+}
